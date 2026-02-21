@@ -13,4 +13,4 @@ A minimalist API that returns the current time for a specific time zone.
 
 ```bash
 
-`pip install fastapi uvicorn`
+pip install fastapi uvicorn
