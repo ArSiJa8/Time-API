@@ -1,16 +1,20 @@
-# Simple Time API
+# World Time API 🌍
 
-A minimalist API that returns the current time for a specific time zone.
+A minimalist, high-performance microservice built with **FastAPI** to provide real-time date and time information for any valid IANA timezone.
 
-## Requirements
+---
 
-- Python 3.9+
-- pip
+## 🚀 Quick Start
 
-## Installation
+### Prerequisites
+* Python 3.9 or higher
+* `pip` (Python package manager)
 
-1. Install the required dependencies:
+### Installation
+1. **Clone or download** this repository.
+2. **Install dependencies**:
+   ```bash
+   pip install fastapi uvicorn
 
-```bash
-
-pip install fastapi uvicorn
+   ```
+   You can find the API Docs under /docs
